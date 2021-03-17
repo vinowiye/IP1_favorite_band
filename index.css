@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h3{
+    font-weight: bold;
+    font-style: italic;
+    font-family: sans-serif;
+    color: aqua;
+}
+*{
+    background-color:slategrey;
+}
+h4{
+    color: green;
+    
+}
+li{
+    color: yellowgreen;
+}
+.band{
+    border: 3px solid blue;
+    margin: opx opx opx 2px;
+    width: 80; 
+    height: 100;
+}
+img {
+    float: left;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+    width: 25%;
+    height: 200px;
+}
+ul{
+    height: 100px;
+    width: 100px;
+    overflow: auto;
+}
+h1{
+    color: blue;
+}
